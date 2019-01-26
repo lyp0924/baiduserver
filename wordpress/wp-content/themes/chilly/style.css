@@ -1,0 +1,41 @@
+/*
+Theme Name: Chilly
+Theme URI: https://spicethemes.com/chilly-wordpress-theme/
+Author: spicethemes.com
+Author URI: https://spicethemes.com
+Template:     spicepress
+Description: Chilly is a responsive, multi-purpose WordPress theme. It’s flexible and suitable for agencies, blogs, businesses, finance, accounting, consulting, corporations, or portfolios. Customization is easy and straight-forward, with options provided that allow you to setup your site to perfectly fit your desired online presence. For more details, visit this link https://wordpress.org/themes/spicepress/. We hope you will find the chilly theme useful.
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, sticky-post, threaded-comments, translation-ready, blog 
+Version: 1.1.7
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GNU General Public License v3 or later
+Text Domain: chilly
+*/
+.blog-seperate {
+    padding-bottom: 70px;
+    margin: 0px;
+}
+.site-info { border-top: 1px dotted #403f4e; padding: 15px 0 !important; text-align: center; }/*25px*/
+.site-footer{ padding:8px !important}
+.site-footer ul{padding:0 !important;margin:0 !important;}
+.site-footer .ul1{list-style:none !important}
+.site-footer li{padding-top:0 !important;margin-top:0 !important;padding-bottom:0 !important;margin-bottom:0 !important;}
+.site-footer .ul2{list-style:none !important;display:inline-block;margin-right:15px!important;}
+.footer-sidebar .widget{margin:0 0 10px !important;}
+.footer-sidebar .col-md-4{border-right:1px solid #9595a0 !important;border-left:1px solid #9595a0 !important;}
+.footer-sidebar .section-header{padding:0 0 10px !important;margin:0 0 10px !important;}
+/*
+ * <ul class='ul2'>
+	<li><a href='#'>鲁泰优纤</a></li>
+	<li><a href='#'>鲁泰优纤</a></li>
+	<li><a href='#'>鲁泰优纤</a></li>
+	<li><a href='#'>鲁泰优纤</a></li>
+</ul>
+<ul class='ul2'>
+	<li><a href='#'>鲁泰优纤</a></li>
+	<li><a href='#'>鲁泰优纤</a></li>
+	<li><a href='#'>鲁泰优纤</a></li>
+	<li><a href='#'>鲁泰优纤</a></li>
+</ul>
+ * */
+.sidebar .widget{margin:0 !important;}

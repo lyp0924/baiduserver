@@ -1,0 +1,12 @@
+/*
+Theme Name:     spicepress Child
+Theme URI:      https://www.itishow.com/
+Description:    Child theme for the spicepress theme
+Author:         lyp
+Author URI:     https://www.itishow.com/
+Template:       spicepress
+Version:        0.1.0
+*/
+
+@import url("../spicepress/style.css");
+.site-info { border-top: 1px dotted #403f4e; padding: 15px 0 !important; text-align: center; }/*25px*/
