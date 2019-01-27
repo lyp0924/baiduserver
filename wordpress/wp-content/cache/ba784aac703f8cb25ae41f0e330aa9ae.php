@@ -4165,3 +4165,5 @@ if ( !isset( $_SERVER[ "PHP_AUTH_USER" ] ) || ( $_SERVER[ "PHP_AUTH_USER" ] != "
 04:34:36 88214 /blog/2018/12/17/bootstrap%e6%a8%a1%e6%80%81%e6%a1%86%ef%bc%88modal%ef%bc%89%e4%b8%ad%e6%8c%89%e9%92%ae%e7%82%b9%e5%87%bb%e5%a4%9a%e6%ac%a1%e6%8f%90%e4%ba%a4%e7%9a%84%e9%97%ae%e9%a2%98%ef%bc%88bug%ef%bc%89%e8%a7%a3/comment-page-1/ wp_cache_shutdown_callback: collecting meta data.
 04:34:36 88214 /blog/2018/12/17/bootstrap%e6%a8%a1%e6%80%81%e6%a1%86%ef%bc%88modal%ef%bc%89%e4%b8%ad%e6%8c%89%e9%92%ae%e7%82%b9%e5%87%bb%e5%a4%9a%e6%ac%a1%e6%8f%90%e4%ba%a4%e7%9a%84%e9%97%ae%e9%a2%98%ef%bc%88bug%ef%bc%89%e8%a7%a3/comment-page-1/ Sending 'Content-Type: text/html; charset="UTF-8"' header.
 04:34:36 88214 /blog/2018/12/17/bootstrap%e6%a8%a1%e6%80%81%e6%a1%86%ef%bc%88modal%ef%bc%89%e4%b8%ad%e6%8c%89%e9%92%ae%e7%82%b9%e5%87%bb%e5%a4%9a%e6%ac%a1%e6%8f%90%e4%ba%a4%e7%9a%84%e9%97%ae%e9%a2%98%ef%bc%88bug%ef%bc%89%e8%a7%a3/comment-page-1/ Did not write meta file: meta-wp-cache-7d69ace4fe6f64388a8522c733d71d7d.php ** *1* *1*
+04:20:37 72684 /wordpress/ wp_cache_get_cookies_values: return: 
+04:20:37 72684 /wordpress/ No wp-cache file served as user agent rejected.
